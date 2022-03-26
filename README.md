@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nliao917
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently looking for a summer internship or full-time position.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Please reach me by email nanliao917@gmail.com
