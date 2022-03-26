@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nliao917
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently looking for a summer internship or full-time position.
-- Here is my resume for your reference: https://nliao917.github.io/Resume/
+- 💗 Here is my resume for your reference: https://nliao917.github.io/Resume/
 - 📫 Please reach me by email nanliao917@gmail.com
