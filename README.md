@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nliao917
-- 💗 Here is my personal website for your reference: https://nliao917.github.io/Resume/
+- 💗 Here is my personal website for your reference: https://nliao917.github.io/MyWebsite/
 - 📫 Please reach me by email nanliao917@gmail.com
